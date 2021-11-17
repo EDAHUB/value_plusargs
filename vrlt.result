@@ -1,0 +1,13 @@
+Script started on 2021-11-18 01:26:24+08:00 [TERM="screen" TTY="/dev/pts/17" COLUMNS="126" LINES="37"]
+trace could get value from %0b, trace01=0
+trace could get value from %b, trace02=1
+trace could get value from %0d, trace03=0
+trace could get value from %d, trace04=1
+plusargs return 0 from %0b, trace05=0
+plusargs return 1 from %b, trace06=1
+plusargs return 0 from %0d, trace07=0
+plusargs return 1 from %d, trace08=1
+[1] Model running...
+
+
+Script done on 2021-11-18 01:26:24+08:00 [COMMAND_EXIT_CODE="0"]

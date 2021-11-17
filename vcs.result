@@ -1,0 +1,20 @@
+Script started on 2021-11-18 01:19:30+08:00 [TERM="screen" TTY="/dev/pts/29" COLUMNS="126" LINES="37"]
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version R-2020.12-SP2-1_Full64; Runtime version R-2020.12-SP2-1_Full64;  Nov 18 01:19 2021
+trace could get value from %0b, trace01=1
+trace could get value from %b, trace02=1
+trace could get value from %0d, trace03=1
+trace could get value from %d, trace04=1
+plusargs return 1 from %0b, trace05=1
+plusargs return 1 from %b, trace06=1
+plusargs return 1 from %0d, trace07=1
+plusargs return 1 from %d, trace08=1
+[0] Model running...
+
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Thu Nov 18 01:19:31 2021
+
+Script done on 2021-11-18 01:19:31+08:00 [COMMAND_EXIT_CODE="0"]
